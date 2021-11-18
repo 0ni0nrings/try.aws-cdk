@@ -1,3 +1,3 @@
 tasks:
-  - name: Static Server
-    command: sh ./scripts/configure-gitpod.sh
+  - name: Configure Gitpod
+    command: sh ./configure-gitpod.sh
