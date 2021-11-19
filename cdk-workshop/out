@@ -1,0 +1,1 @@
+{"errorMessage": "'path'", "errorType": "KeyError", "stackTrace": ["  File \"/var/task/hello.py\", line 10, in handler\n    'body': 'Hello, CDK! You have hit {}\\n'.format(event['path'])\n"]}
